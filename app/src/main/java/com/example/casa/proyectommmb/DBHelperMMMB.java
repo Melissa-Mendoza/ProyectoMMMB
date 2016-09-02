@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 /**
- * Creado por Melissa Mendoz on 26/08/2016.
+ * Creado por Melissa Mendoza on 26/08/2016.
  */
 public class DBHelperMMMB extends SQLiteOpenHelper {
     public static final String DB_NOMBRE = "CNE_MMMB.db";
